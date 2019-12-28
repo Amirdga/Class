@@ -1,0 +1,72 @@
+::placeholder{
+    text-align: center;
+    direction: rtl;
+}
+.inputBox{
+    width: 1288px;
+    height: 133px;
+    background-color: #52AB5B;
+    border-radius: 20px;
+    box-shadow: 0 0 0 1px #000000;
+    margin-left: 33px;
+}
+.inputName{
+    margin-left: 35px;
+    margin-top: 10px;
+    direction: rtl;
+}
+.submitName{
+    margin-top: 28px;
+    margin-left: 620px;
+}
+.inputNomre{
+    margin-left: 65px;
+    margin-top: 20px;
+    direction: rtl;
+}
+.boxnomre{
+    width: 260px;
+    height: 300px;
+    background-color: #D86050;
+    margin-left: 860px;
+    margin-top: 45px;
+    border-radius: 20px;
+    box-shadow: 0 0 0 1px #000000;
+    direction: rtl;
+    overflow-y: scroll;
+}
+
+.die{
+    margin-right: 20px;
+    margin-top: 20px;
+}
+.hr{
+    color: blue;
+}
+.dropdown{
+    margin-left: 29px;
+}
+.table{
+    background-color: rgba(58,223,161,0.66);
+}
+.table2{
+    background-color: rgba(223,0,20,0.66);
+}
+.table3{
+    background-color: #ff000a;
+}
+.table4{
+    background-color: aquamarine;
+}
+.delete{
+    background: url("Images/iconfinder_meanicons_22_197212.png");
+    width: 22px;
+    height: 22px;
+    display: inline-block;
+}
+.edit{
+    background: url("Images/iconfinder_website_-_pencil_3440848.png");
+    width: 22px;
+    height: 22px;
+    display: inline-block;
+}
